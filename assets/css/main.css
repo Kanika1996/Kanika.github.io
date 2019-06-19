@@ -910,10 +910,10 @@ input, select, textarea {
 		}
 
 		.image[data-position="top left"] img {
-			-moz-object-position: cover;
-			-webkit-object-position: cover;
-			-ms-object-position: cover;
-			object-position: cover;
+			-moz-object-position: top left;
+			-webkit-object-position: top left;
+			-ms-object-position: top left;
+			object-position: top left;
 		}
 
 		.image[data-position="top"] img {
